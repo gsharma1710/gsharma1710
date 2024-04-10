@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @gsharma1710
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi 👋 My name is Gaurav Sharma
 
-<!---
-gsharma1710/gsharma1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I am a Full-Stack JavaScript Developer
+
+I'am Gaurav Sharma junior software developer from India. I'm deeply passionate about software development, computers and cyber security. Apart from that i have a habit of reading book of different joner like self-help, business, non-fiction etc;
+
+- 🌍  I'm based in Chandigarh, India
+- 🖥️  See my portfolio at [My Portfolio]()
+- ✉️  You can contact me at [sharmag8121@gmail.com](mailto:sharmag8121@gmail.com)
+- 🧠  I'm learning Full-Stack Development in JavaScript
+- 🤝  I'm open to collaborating on projects related to web development and even happy to explore more about other stuf.
+- ⚡  No amount of money ever bought a second of timeMy Portfolio:https://gsharma101.github.io/pfrj/
